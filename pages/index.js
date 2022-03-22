@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Info" />
+        <Header title="Privacy Policy" />
         <p className="description">
           House Pusher does not collect any data.
         </p>
