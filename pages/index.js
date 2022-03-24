@@ -13,7 +13,8 @@ export default function Home() {
       <main>
         <Header title="Privacy Policy" />
         <p className="description">
-          House Pusher does not collect any data.
+              The app does not use third-party services that may collect
+              information used to identify you.
         </p>
       </main>
 
